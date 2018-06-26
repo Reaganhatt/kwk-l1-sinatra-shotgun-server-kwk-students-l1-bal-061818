@@ -4,7 +4,7 @@ class App < Sinatra::Base
 
   get '/' do 
     "Welcome to your app!!!!
-    I BUILT THIS!"
+    I BUILT THIS! hello idk if this will work it did!!!! THAT SO cool"
   end
 
 end
